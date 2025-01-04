@@ -1,0 +1,5 @@
+site_name: FDW PA
+nav: 
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
