@@ -1,5 +1,7 @@
-site_name: FDW PA
+site_name: Lonely Capsule
 nav: 
   - Home: index.md
   - About: about.md
+  - Free Resources: 
+    - Free AI Art Websites: free_ai_art.md
 theme: readthedocs
